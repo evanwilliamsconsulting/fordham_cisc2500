@@ -1,0 +1,1 @@
+Given a string such as CGATCATGCTATATCATGC find out how many times the word 'CAT" appears and print out where it occurs in the string.
